@@ -1,0 +1,41 @@
+.h-primary {
+    font-size: 3.2rem;
+    padding: 12px;
+    color: white;
+    text-align: center;
+    font-family: 'Bree Serif', serif;
+}
+
+#home p {
+    color: white;
+    text-align: center;
+    font-size: 1.1rem;
+    font-family: 'Baloo Paaji 2', cursive;
+}
+
+header {
+    font-family: 'Baloo Paaji 2', cursive;
+}
+
+.btn {
+    padding: 6px 20px;
+    margin: 17px;
+    background-color: rgb(172, 167, 167);
+    color: black;
+    font-family: 'Baloo Paaji 2', cursive;
+    font-size: 0.9rem;
+    border-radius: 10px;
+    border: 2px solid white;
+    cursor: pointer;
+    transition: 0.1s;
+}
+
+.btn:hover {
+    transform: scale(0.9);
+    background-color: white;
+    border: none;
+}
+
+.center {
+    text-align: center;
+}
